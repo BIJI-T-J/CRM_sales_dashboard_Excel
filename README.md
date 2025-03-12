@@ -1,7 +1,7 @@
 # CRM_SALES_DASHBOARD_EXCEL
 ## OBJECTIVE
 Analyse and create interactive dashboard on the B2B sales pipeline data from a company that sells computer hardware, including information on accounts, products, sales teams, and sales opportunities.
-![Screenshot (1007)](https://github.com/user-attachments/assets/ebde77cb-307f-409a-95dd-f82e6543c532)
+![Screenshot (1012)](https://github.com/user-attachments/assets/64c5b711-47f9-4c09-ae14-02182d81fcfc)
 
 ## INSIGHTS
 ## 1.Find the top 5 efficient sales agents.
@@ -17,3 +17,7 @@ Analyse and create interactive dashboard on the B2B sales pipeline data from a c
 ## 6.what is the sales won/lost percentage?
 ![Screenshot (1010)(wn)](https://github.com/user-attachments/assets/56195e78-642b-4ea2-9274-d2ed4361486f)
 ## CONCLUSION
+* Least revenue generating products are GTK 500,MG special, GTX basic and GTX plus basic
+* In the year 2017, in the months April, July, October and November, company generated least revenue.
+* In the year 2017, in the months may, August and November, company lost above 50% of the sales.
+* East region brings the least to the company revenue. Only 30% of revenue

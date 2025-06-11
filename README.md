@@ -17,7 +17,9 @@ Analyse and create interactive dashboard on the B2B sales pipeline data from a c
 ## 6.what is the sales won/lost percentage?
 ![Screenshot (1010)(wn)](https://github.com/user-attachments/assets/56195e78-642b-4ea2-9274-d2ed4361486f)
 ## CONCLUSION
-* Least revenue generating products are GTK 500,MG special, GTX basic and GTX plus basic
-* In the year 2017, in the months April, July, October and November, company generated least revenue.
-* In the year 2017, in the months may, August and November, company lost above 50% of the sales.
-* East region brings the least to the company revenue. Only 30% of revenue
+* In the year 2017, company made 10.01 Million sales and sold 4238 pieces of product.
+* Percentage of total proposals Won is 63 and Lost is 37.
+* 'Central' region Won 24% of the total won sales(63%) and most revenue generated region is 'West'.
+* Most revenue generated product is 'GTX Pro' and least revenue generated product is 'MG Special'.
+* Most sold product is 'GTX Basic' and least sold product is 'GTK 500'.
+* The monthly sales shows a periodic up and down
